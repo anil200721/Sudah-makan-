@@ -7,18 +7,18 @@
 
 body {
     width: 100%;
-    min-height: 1000vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f4f4f4;
+    background-color: #ad8f95;
 }
 
 .container {
     display: flex;
     flex-direction: column;
-    text-align: center;
-    align-items: center;
+    text-align: center ;
+    align-items: center ;
     gap: 20px;
     max-width: 500px;
     margin: 20px;
